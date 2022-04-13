@@ -1,0 +1,49 @@
+
+.navbar h5{
+    color: yellow;
+}
+
+.navbar{
+  text-transform:capitalize;
+    font-weight: 600;
+    font-size: .9rem;
+    letter-spacing: .09rem;
+    background-color:#27354e;
+}
+.navbar-nav li{
+    padding-right: .7rem;
+}
+
+
+.nav-cl{
+    color: azure;
+    
+}
+.tag-line {
+    background: #E9E9E9;
+    
+}
+
+          
+/*.about{
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:grey;
+  }
+  
+
+  .about h4{
+      margin-left: 25px;
+      text-decoration-line:underline;
+      text-decoration-color:green;
+      text-decoration-style:solid;
+      text-underline-offset:4px;
+      font-size: 20px;
+      font-weight: 700;
+      padding-top:10px;
+      color: #273650;
+  }
+  .about h6{
+      margin: 0 auto;
+  }*/
